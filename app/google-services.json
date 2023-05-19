@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "343734831450",
+    "project_id": "mediassist-fa1d7",
+    "storage_bucket": "mediassist-fa1d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343734831450:android:3be8b63587a7d39807cb63",
+        "android_client_info": {
+          "package_name": "inc.typhon.mediassist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343734831450-h8v50uengne8gbd4ck3mpuhu1dps5cca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGy8hwIJj3Rzr2Lw8WiWimADCxD8DvuZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343734831450-h8v50uengne8gbd4ck3mpuhu1dps5cca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
